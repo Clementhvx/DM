@@ -79,11 +79,11 @@ _________
 <div align="center"><img src="enoncé_exercice_1.PNG"/></div>
 
 1) 
-<p style="font-family: times>
-print("Méthode rectangles médians =" + str(rectangles_medians(0, 1, 10)))
-</p>
-Valeur approchée = 0.33166666666666667
-Résultat réel obtenu = 1/12
+<div style="font-family: times, serif>
+  print("Méthode rectangles médians =" + str(rectangles_medians(0, 1, 10)))
+
+  Valeur approchée = 0.33166666666666667
+  Résultat réel obtenu = 1/12
 </div>
 2)
 
