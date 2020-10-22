@@ -90,7 +90,7 @@ Résultat réel obtenu = 1/12
 
 3)
 
-<div align="center"><img src="logo_iut.PNG"/></div>
+<div align="center"><img src="Graphe_exercice_1.PNG"/></div>
 
 
 
