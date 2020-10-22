@@ -84,8 +84,13 @@ _________
 print("Méthode rectangles médians =" + str(rectangles_medians(0, 1, 10)))
 
 Valeur approchée = 0.33166666666666667
+Résultat réel obtenu = 1/12
 
 2)
 
 3)
+
+<div align="center"><img src="logo_iut.PNG"/></div>
+
+
 
