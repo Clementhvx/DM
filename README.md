@@ -91,9 +91,12 @@ Résultat réel obtenu = 1/12
 3)
 
 <div align="center"><img src="Graphe_exercice_1.PNG"/></div>
-
+----------
 <div align="center"><img src="enoncé_exercice_2.PNG"/></div>
+----------
 <div align="center"><img src="enoncé_exercice_3.PNG"/></div>
+----------
 <div align="center"><img src="enoncé_exercice_4.PNG"/></div>
+ ----------
 <div align="center"><img src="enoncé_exercice_5.PNG"/></div>
 
