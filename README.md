@@ -79,7 +79,7 @@ _________
 <div align="center"><img src="enoncé_exercice_1.PNG"/></div>
 
 1) 
-<div style="font-family: times, serif>
+<div style="font-family: times, serif">
   print("Méthode rectangles médians =" + str(rectangles_medians(0, 1, 10)))
 
   Valeur approchée = 0.33166666666666667
