@@ -78,7 +78,7 @@ _________
 
 <div align="center"><img src="enoncé_exercice_1.PNG"/></div>
 
-1) print("Méthode rectangles médians =" + str(rectangles_medians(0, 1, 10)))
+1) Print("Méthode rectangles médians =" + str(rectangles_medians(0, 1, 10)))
 
    Valeur approchée = 0.33166666666666667
   
@@ -96,7 +96,7 @@ _________
 
 <u>Réponse:</u>
 
-   Print("Méthode de Simpsons =" + str(rectangles_medians(0, 1, 10)))
+   Print("Méthode de Simpsons =" + str(simpson(0, 1, 10)))
   
    Valeur obtenue = 0.05000020833333334
    
@@ -110,12 +110,25 @@ Réponse:
 
    Il ne faut pas oublier de mettre " from math import * " afin de pouvoir utiliser "pi" 
 
-   Print("Méthode des Trapèzes =" + str(trapezes(pi/2 -pi/2, 11)))
-
+   Print("Méthode des Trapèzes =" + str(trapezes(-pi/2, pi/2, 11))) = 3.9294565709371456
+ 
+   Print("Méthode rectangles médians =" + str(rectangles_medians(-pi/2, pi/2, 11))) = 0.7151451704902102
+   
+   Print("Méthode rectangles médians =" + str(rectangles_medians(-pi/2, pi/2, 12))) = 0.7149877738663666
+   
+   Print("Méthode rectangles médians =" + str(rectangles_medians(-pi/2, pi/2, 13))) = 0.7148653158421161
+   
+   Print("Méthode rectangles médians =" + str(rectangles_medians(-pi/2, pi/2, 14))) = 0.7147681700425113
+   
 <hr>
 <div align="center"><img src="enoncé_exercice_4.PNG"/></div>
 
 Réponse:
+
+   Print("Méthode des Trapèzes =" + str(trapezes(0, 1, 10000))) = 0.8332333499994032
+   
+   Il n'y a aucun intérêt de la valeur de n choisie avec cette méthode car elle varie très peu en fonction de n.
+   
 <hr>
 <div align="center"><img src="enoncé_exercice_5.PNG"/></div>
 
