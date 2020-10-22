@@ -79,13 +79,13 @@ _________
 <div align="center"><img src="enoncé_exercice_1.PNG"/></div>
 
 1) 
-(a = 0 ,b = 1 , n = 10)
+<div font-family:Serif>(a = 0 ,b = 1 , n = 10)
 
 print("Méthode rectangles médians =" + str(rectangles_medians(0, 1, 10)))
 
 Valeur approchée = 0.33166666666666667
 Résultat réel obtenu = 1/12
-
+</div>
 2)
 
 3)
