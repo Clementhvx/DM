@@ -80,12 +80,16 @@ _________
 
 1) 
 a = 0
+
 b = 1
+
 n = 10
+
 
 print("Méthode rectangles médians =" + str(rectangles_medians(0, 1, 10)))
 
 Valeur approchée = 0.33166666666666667
+
 2)
 
 3)
