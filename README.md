@@ -76,7 +76,7 @@ def simpson(a,b,n):
 ```
 _________ 
 
-<div align="center"><img src="enonce_exercice_1.PNG"/></div>
+<div align="center"><img src="enoncé_exercice_1.PNG"/></div>
 
 1) 
 (a = 0 ,b = 1 , n = 10)
@@ -92,8 +92,8 @@ Résultat réel obtenu = 1/12
 
 <div align="center"><img src="Graphe_exercice_1.PNG"/></div>
 
-<div align="center"><img src="enonce_exercice_2.PNG"/></div>
-<div align="center"><img src="enonce_exercice_3.PNG"/></div>
-<div align="center"><img src="enonce_exercice_4.PNG"/></div>
-<div align="center"><img src="enonce_exercice_5.PNG"/></div>
+<div align="center"><img src="enoncé_exercice_2.PNG"/></div>
+<div align="center"><img src="enoncé_exercice_3.PNG"/></div>
+<div align="center"><img src="enoncé_exercice_4.PNG"/></div>
+<div align="center"><img src="enoncé_exercice_5.PNG"/></div>
 
