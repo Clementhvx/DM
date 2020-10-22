@@ -7,3 +7,16 @@
                                                 Projet de Programmation
 _________ 
 
+Rectangles "gauches" 
+
+```python
+def rectangles_gauches(a, b, n):
+    resultat = (b - a) / n
+    somme = 0
+
+    for i in range(n):
+        somme += f(a)
+        a += 1 / n
+    resultat = resultat * somme
+    return resultat
+```
