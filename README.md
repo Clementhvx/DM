@@ -94,20 +94,30 @@ _________
 <hr>
 <div align="center"><img src="enoncé_exercice_2.PNG"/></div>
 
-   print("Méthode de Simpsons =" + str(rectangles_medians(0, 1, 10)))
+<u>Réponse:</u>
+
+   Print("Méthode de Simpsons =" + str(rectangles_medians(0, 1, 10)))
   
    Valeur obtenue = 0.05000020833333334
+   
    Le résultat obtenu se rapproche du résultat réel réalisé sur papier.
    
 
 <hr>
 <div align="center"><img src="enoncé_exercice_3.PNG"/></div>
+
+Réponse:
+
    Il ne faut pas oublier de mettre " from math import * " afin de pouvoir utiliser "pi" 
 
-   print("Méthode des Trapèzes =" + str(trapezes(pi/2 -pi/2, 11)))
+   Print("Méthode des Trapèzes =" + str(trapezes(pi/2 -pi/2, 11)))
 
 <hr>
 <div align="center"><img src="enoncé_exercice_4.PNG"/></div>
+
+Réponse:
 <hr>
 <div align="center"><img src="enoncé_exercice_5.PNG"/></div>
+
+<u>Réponse:</u>
 
