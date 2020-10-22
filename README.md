@@ -78,19 +78,16 @@ _________
 
 <div align="center"><img src="enoncé_exercice_1.PNG"/></div>
 
-1) 
-<font style="font-family: times, serif">
-  
-  print("Méthode rectangles médians =" + str(rectangles_medians(0, 1, 10)))
+1) print("Méthode rectangles médians =" + str(rectangles_medians(0, 1, 10)))
 
-  Valeur approchée = 0.33166666666666667
-  Résultat réel obtenu = 1/12
-</font>
+   Valeur approchée = 0.33166666666666667
+  
+   Résultat réel obtenu = 1/12
+
 2)
 
-3)
+3) <div align="center"><img src="Graphe_exercice_1.PNG"/></div>
 
-<div align="center"><img src="Graphe_exercice_1.PNG"/></div>
 <hr>
 <div align="center"><img src="enoncé_exercice_2.PNG"/></div>
 <hr>
