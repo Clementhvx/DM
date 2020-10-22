@@ -1,4 +1,4 @@
-[center]"Intégration Numérique"[/center]
+#Intégration Numérique#
 
 <div align="center"><img src="logo_iut.PNG"/></div>
 
