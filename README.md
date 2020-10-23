@@ -127,7 +127,7 @@ Réponse:
 
    Print("Méthode des Trapèzes =" + str(trapezes(0, 1, 10000))) = 0.8332333499994032
    
-   Il n'y a aucun intérêt de la valeur de n choisie avec cette méthode car elle varie très peu en fonction de n.
+   L'intérêt d'une valeur de "n" aussi grande est une précision beaucoup plus acrrue de la valeur retournée.
    
 <hr>
 <div align="center"><img src="enoncé_exercice_5.PNG"/></div>
