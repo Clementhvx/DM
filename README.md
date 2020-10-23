@@ -132,5 +132,7 @@ Réponse:
 <hr>
 <div align="center"><img src="enoncé_exercice_5.PNG"/></div>
 
-<u>Réponse:</u>
+Réponse:
+   Print("Méthode des Trapèzes : " + str(trapezes( 0, 50, 10))) = -32.19623915708445
+
 
