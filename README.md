@@ -82,9 +82,11 @@ _________
 
    Valeur de F(1) = 1/3 = 0.33166666666666667
 
-2) Valeur absolue = 
+2) Valeur absolue = |0,3| 
   
-   Pourcentage = 
+   Pourcentage = 90%
+   
+   On remarque une différence de 0 3 u.a
 
 3) 
 <div align="center"><img src="Graphe_exercice_1.PNG"/></div>
@@ -96,9 +98,9 @@ _________
 
    Print("Méthode de Simpsons =" + str(simpson(0, 1, 10)))
   
-   Valeur obtenue = 0.05000020833333334
+   Valeur obtenue = 1/4
    
-   Le résultat obtenu se rapproche du résultat réel réalisé sur papier.
+   Le résultat obtenu se rapproche du résultat réel réalisé sur papier car l intégrale de x^3 est x^4/5.
    
 
 <hr>
@@ -118,6 +120,8 @@ Réponse:
    
    Print("Méthode rectangles médians =" + str(rectangles_medians(-pi/2, pi/2, 14))) = 0.7147681700425113
    
+   On remarque une grosse différence entre chaque méthode.
+   
 <hr>
 <div align="center"><img src="enoncé_exercice_4.PNG"/></div>
 
@@ -131,9 +135,8 @@ Réponse:
 <div align="center"><img src="enoncé_exercice_5.PNG"/></div>
 
 Réponse:
-   Print("Méthode des Trapèzes : " + str(trapezes( 0, 50, 10))) = -32.19623915708445
+   Print("Méthode des Trapèzes : " + str(trapezes( 0, 50, 10))) = 32.19623915708445
 
 
 RESTE A FAIRE UN TABLEAU AVEC LES FONCTIONS DE BASES ET LEURS PRIMITIVES
 COMPLETER LES QUESTIONS ET AMELIORER LE RAPPORT !!!!!
-VERIFIER LES CALCULS AU PRES D'ANTOINE.
