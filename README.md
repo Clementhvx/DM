@@ -78,11 +78,9 @@ _________
 
 <div align="center"><img src="enoncé_exercice_1.PNG"/></div>
 
-1) Print("Méthode rectangles médians =" + str(rectangles_medians(0, 1, 10)))
+1) Print("Méthode rectangles médians =" + str(rectangles_medians(0, 1, 10))) = 0.665
 
-   Valeur approchée = 0.33166666666666667
-  
-   Résultat réel obtenu = 1/12
+   Valeur de F(1) = 1/3 = 0.33166666666666667
 
 2) Valeur absolue = 
   
