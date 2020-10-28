@@ -1,6 +1,8 @@
+from math import *
+#Version Python 3 minimum
+
 def insererFonction():
-    retrun input("A l'aide de ce programme vous pourrez calculer l'intégrale"
-    return input("Veuillez insérer la fonction\n")
+    return input("Veuillez inserer la fonction\n")
 
 def f(x):
     return eval(fonction)
@@ -29,8 +31,8 @@ def rectangles_medians(a,b,n):
     resultat = (b - a) / n
     somme = 0
 
-    for i in range(0,n):
-        somme += f(a + a+(1/n)) / 2
+    for i in range(0, n):
+        somme += f((a + a+(1/n))/ 2)
         a += 1 / n
     resultat = resultat * somme
     return resultat
@@ -60,10 +62,7 @@ def simpson(a,b,n):
     return resultat
 
 
-fonction = entreeFonction()
-print("Méthode Rectangles gauches : " + str(rectangles_gauches(0, 1, 10)))
-print("Méthode Rectangles droits : " + str(rectangles_droits(0, 1, 10)))
-print("Méthode Rectangles médians : " + str(rectangles_medians(0, 1, 10)))
-print("Méthode des Trapèzes : " + str(trapezes(0, 1, 10)))
-print("Méthode de Simpsons : " + str(simpson(0,1,10)))
+fonction = insererFonction()
+
+
 
