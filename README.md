@@ -98,7 +98,7 @@ _________
 
    Print("Méthode de Simpsons =" + str(simpson(0, 1, 10)))
   
-   Valeur obtenue = 1/4
+   Valeur obtenue = 1/4 soit 0.25
    
    Le résultat obtenu se rapproche du résultat réel réalisé sur papier car l intégrale de x^3 est x^4/5.
    
@@ -110,24 +110,24 @@ Réponse:
 
    Il ne faut pas oublier de mettre " from math import * " afin de pouvoir utiliser "pi" 
 
-   Print("Méthode des Trapèzes =" + str(trapezes(-pi/2, pi/2, 11))) = 3.9294565709371456
+   Print("Méthode des Trapèzes =" + str(trapezes(-pi/2, pi/2, 11))) = -2.4768
  
-   Print("Méthode rectangles médians =" + str(rectangles_medians(-pi/2, pi/2, 11))) = 0.7151451704902102
+   Print("Méthode rectangles médians =" + str(rectangles_medians(-pi/2, pi/2, 11))) = -2.6444
    
-   Print("Méthode rectangles médians =" + str(rectangles_medians(-pi/2, pi/2, 12))) = 0.7149877738663666
+   Print("Méthode rectangles médians =" + str(rectangles_medians(-pi/2, pi/2, 12))) = -2.6443
    
-   Print("Méthode rectangles médians =" + str(rectangles_medians(-pi/2, pi/2, 13))) = 0.7148653158421161
+   Print("Méthode rectangles médians =" + str(rectangles_medians(-pi/2, pi/2, 13))) = -2.6442
    
-   Print("Méthode rectangles médians =" + str(rectangles_medians(-pi/2, pi/2, 14))) = 0.7147681700425113
+   Print("Méthode rectangles médians =" + str(rectangles_medians(-pi/2, pi/2, 14))) = -2.6441
    
-   On remarque une grosse différence entre chaque méthode.
+   On remarque une faible différence entre chaque méthode et que tous les résultats sont tous négatifs.
    
 <hr>
 <div align="center"><img src="enoncé_exercice_4.PNG"/></div>
 
 Réponse:
 
-   Print("Méthode des Trapèzes =" + str(trapezes(0, 1, 10000))) = 0.8332333499994032
+   Print("Méthode des Trapèzes =" + str(trapezes(0, 1, 10000))) = 1.9999
    
    L'intérêt d'une valeur de "n" aussi grande est une précision beaucoup plus acrrue de la valeur retournée.
    
@@ -137,6 +137,12 @@ Réponse:
 Réponse:
    Print("Méthode des Trapèzes : " + str(trapezes( 0, 50, 10))) = 32.19623915708445
 
+#### PRIMITIVES
 
-RESTE A FAIRE UN TABLEAU AVEC LES FONCTIONS DE BASES ET LEURS PRIMITIVES
-COMPLETER LES QUESTIONS ET AMELIORER LE RAPPORT !!!!!
+|      f(x)     |        F(x)     | 
+| ------------- |: -------------: |
+| x²            |        x^3/3    |
+| x³            |        x^4/4    |
+| sin(x)        |        -cos(x)  |
+| (2x+1)        |        x²+x     |
+| e^-x          |        e^-x     |
